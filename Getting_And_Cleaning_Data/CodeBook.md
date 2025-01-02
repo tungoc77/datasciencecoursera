@@ -9,12 +9,6 @@ Data + Description can be found here [UCI Machine Learning Repository](http://ar
 
 ### Attribute Information
 
-| Month    | Savings |
-| :-------- | :------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
-
 For each record in the dataset it is provided: 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
 - Triaxial Angular velocity from the gyroscope. 
